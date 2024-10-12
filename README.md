@@ -1,9 +1,8 @@
 # Bot-Swarm-Simulation
-
-[![Static Badge](https://img.shields.io/badge/pygame-cyan)](https://www.pygame.org/docs/)
-[![Static Badge](https://img.shields.io/badge/random-magenta)](https://docs.python.org/3/library/random.html)
-[![Static Badge](https://img.shields.io/badge/sys-gray)](https://docs.python.org/3/library/sys.html)
-[![Static Badge](https://img.shields.io/badge/math-teal)](https://docs.python.org/3/library/math.html)
+[![Static Badge](https://img.shields.io/badge/pygame-pink)](https://pypi.org/project/pygame/)
+[![Static Badge](https://img.shields.io/badge/random,-pink)](https://pypi.org/project/random,/)
+[![Static Badge](https://img.shields.io/badge/numpy-yellow)](https://pypi.org/project/numpy/)
+[![Static Badge](https://img.shields.io/badge/sklearn-yellow)](https://pypi.org/project/sklearn/)
 
 The code initializes Pygame, sets display dimensions, defines functions for color blending and randomization, initializes food and bot groups, handles events, updates, draws sprites, and handles bot reproduction. 
 
